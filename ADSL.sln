@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{2A4ADB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "sample\SampleApp\SampleApp.csproj", "{86451211-3291-4E12-A6FF-81D0811F6DEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.ADSLXml", "tests\NUnit.ADSLXml\NUnit.ADSLXml.csproj", "{8EDF4429-251A-416D-BB68-93F227191BCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{86451211-3291-4E12-A6FF-81D0811F6DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86451211-3291-4E12-A6FF-81D0811F6DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86451211-3291-4E12-A6FF-81D0811F6DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{ED60750D-D061-497C-ACB1-19F3594B90D7} = {C6A45B1C-46BC-4994-9509-5A3EF0D8C5BF}
 		{7BD457EC-5519-42AC-9857-A532AD981B9A} = {C6A45B1C-46BC-4994-9509-5A3EF0D8C5BF}
 		{86451211-3291-4E12-A6FF-81D0811F6DEA} = {2A4ADBA2-FEBD-4C30-B7C2-4C894ED73E36}
+		{8EDF4429-251A-416D-BB68-93F227191BCF} = {746673E9-3F63-42A7-A425-7F949E19195D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {25C9F1FB-C260-4028-9591-15C217A17E93}
